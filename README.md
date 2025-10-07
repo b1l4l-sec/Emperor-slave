@@ -15,6 +15,7 @@ Two players face off, each with a different set of cards:
 
 Each player chooses one of their remaining cards secretly each round.  
 The cards are then revealed, and the winner of the round is determined based on the following rules:
+Link : https://b212m.github.io/Emperor-slave/
 
 ---
 
